@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Mandelbrot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/fractals/generator/Mandelbrot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

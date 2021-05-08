@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="BurningShip">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/fractals/generator/BurningShip.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/src/fractals/generator/BurningShip.jar!/" recursive="false" />
+  </library>
+</component>
